@@ -1,8 +1,8 @@
 {
-    "name": "KyyMusic",
+    "name": "VenzMusic",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/muhamadrizky16/KyyMusic",
+    "repository": "https://github.com/eldy020502/venzmusic",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -12,27 +12,27 @@
         "OWNER_ID": {
             "description": "isi dengan id telegram Anda sebagai pemilik bot",
             "required": true,
-            "value": "1663258664"
+            "value": "1971311438"
         },
         "ASS_ID": {
             "description": "isi dengan telegram id akun assistant",
             "required": true,
-            "value": ""
+            "value": "1966240355"
         },
         "LOG_GROUP_ID": {
             "description": "buat grup pribadi dan dapatkan id grup, tambahkan bot Anda sebagai admin ke grup juga",
             "required": true,
-            "value": ""
+            "value": "-1001651961288"
         },
         "API_ID": {
             "description": "ID Api Anda dari my.telegram.org",
             "required": true,
-            "value": ""
+            "value": "7364617"
         },
         "API_HASH": {
             "description": "your Api Hash from my.telegram.org/apps",
             "required": true,
-            "value": ""
+            "value": "86b38c34e35870a34f353b05f319c613"
         },
         "HEROKU_API_KEY": {
             "description": "Kunci API akun Heroku Anda",
@@ -47,22 +47,22 @@
         "GROUP": {
             "description": "Isi dengan username group tanpa @",
             "required": true,
-            "value": "NastySupportt"
+            "value": "justvenzzz"
         },
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
             "required": true,
-            "value": "NastyProject"
+            "value": "venzproject"
         },
         "SUDO_USERS": {
             "description": "isi dengan user id yang dapat mengakses semua fungsi di bot anda (dipisahkan dengan spasi).",
             "required": true,
-            "value": "1663258664"
+            "value": "1971311438 1981709803 1930806531"
         },
         "DURATION_LIMIT": {
             "description": "diisi, jangan ubah ini!!",
             "required": true,
-            "value": "3600"
+            "value": "999999"
         },
         "BOT_TOKEN": {
             "description": "isi dengan token bot Anda dapatkan dari @BotFather di telegram",
@@ -71,7 +71,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "Jika Anda tidak tahu ini, Biarkan apa adanya ato di /skip",
-            "value": "https://github.com/muhammadrizky16/KyyMusic",
+            "value": "https://github.com/eldy020502/venzmusic",
             "required": true
         },
         "UPSTREAM_BRANCH": {
