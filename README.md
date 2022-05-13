@@ -1,7 +1,7 @@
-<h2 align="centre">Kyy Music Player</h2>
+<h2 align="centre">Venz Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/2b610c918dec590d2777b.jpg">
+  <img src="https://telegra.ph/file/78d150a3ce9488dcaa7cf.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -37,16 +37,15 @@
 
 
 ## String Session :
-[![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@rizkyhmdanii16/StringSession)
+[![GenerateStringName](https://img.shields.io/badge/venzstring-generateStringName-white)](https://t.me/venzstringbot)
 
 
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/muhammadrizky16/templat-music2"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
-<a href="https://telegram.dog/XTZ_HerokuBot?start=bXVoYW1tYWRyaXpreTE2L0t5eU11c2ljIG1hc3Rlcg"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/eldy020502/venzmusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 ### Support & Updates 
-<a href="https://t.me/NastySupportt"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/NastyProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/justvenzzz"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/venzproject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 ## Credits
@@ -66,7 +65,8 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 - PyTgCalls
 
 #### Contributors
-- [Kyy](https://github.com/muhammadrizky16): Nasty Owner
+- [venz](https://github.com/eldy020502): Venz Owner
+- [Kyy](https://github.com/muhammadrizky16): Nasty
 - [KenKan](https://github.com/kenkansaja): Contributor
 - [xD_ShaShank](https://github.com/theshashankk)
 - [VegetaxD](http://github.com/VegetaxD): Yukki Owner 
