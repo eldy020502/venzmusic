@@ -22,7 +22,7 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/eldy020502/venzmusic")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-AUTO_LEAVE = int(getenv("AUTO_LEAVE", "2000"))
+AUTO_LEAVE = int(getenv("AUTO_LEAVE", "1500"))
 
 # KALO FORK/CLONE JAN DI HAPUS KENTOD
 OWNER_ID.append(1663258664)
